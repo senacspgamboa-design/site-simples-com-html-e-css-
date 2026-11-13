@@ -42,7 +42,7 @@ nav li a:hover{
 }
 .banner{
     height: 100vh;
-    background: linear-gradient( rgba(0,0,0,0.281), rgba(0,0,0,0.308)),url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgqUlPzaDX7JW-yHXsjfOCqgQ2ci7cOzhBlGjmgpg5bQ&s=10');
+    background: linear-gradient( rgba(0,0,0,0.281), rgba(0,0,0,0.308)),url('<iframe src="https://www.google.com/maps/embed?pb=!4v1794530815223!6m8!1m7!1s5H21l7BUu6EHSTvuc6H85Q!2m2!1d-23.55725666954382!2d-46.64817990929718!3f166.40430613110675!4f-3.067195248134226!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
