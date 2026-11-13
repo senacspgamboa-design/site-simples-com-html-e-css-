@@ -42,7 +42,7 @@ nav li a:hover{
 }
 .banner{
     height: 100vh;
-    background: linear-gradient( rgba(0,0,0,0.281), rgba(0,0,0,0.308)),url('background.jpg');
+    background: linear-gradient( rgba(0,0,0,0.281), rgba(0,0,0,0.308)),url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgqUlPzaDX7JW-yHXsjfOCqgQ2ci7cOzhBlGjmgpg5bQ&s=10');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
